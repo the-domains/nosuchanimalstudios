@@ -1,0 +1,28 @@
+name: NoSuchAnimalStudios
+favicon: null
+layout_spectrum: 0.1975705218501389
+typography_spectrum: 0.037623134441673756
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.3558826653752476
+  lightness: 0.019206358352676034
+  saturation: 0.859641470015049
+  rhythmicContrast: 0.1047218949533999
+purpose: []
